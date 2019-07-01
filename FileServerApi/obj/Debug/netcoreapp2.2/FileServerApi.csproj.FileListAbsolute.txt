@@ -1,0 +1,14 @@
+C:\Users\s28-vp\source\repos\FileServerApi\FileServerApi\bin\Debug\netcoreapp2.2\FileServerApi.deps.json
+C:\Users\s28-vp\source\repos\FileServerApi\FileServerApi\bin\Debug\netcoreapp2.2\FileServerApi.runtimeconfig.json
+C:\Users\s28-vp\source\repos\FileServerApi\FileServerApi\bin\Debug\netcoreapp2.2\FileServerApi.runtimeconfig.dev.json
+C:\Users\s28-vp\source\repos\FileServerApi\FileServerApi\bin\Debug\netcoreapp2.2\FileServerApi.dll
+C:\Users\s28-vp\source\repos\FileServerApi\FileServerApi\obj\Debug\netcoreapp2.2\FileServerApi.csprojAssemblyReference.cache
+C:\Users\s28-vp\source\repos\FileServerApi\FileServerApi\obj\Debug\netcoreapp2.2\FileServerApi.csproj.CoreCompileInputs.cache
+C:\Users\s28-vp\source\repos\FileServerApi\FileServerApi\obj\Debug\netcoreapp2.2\FileServerApi.RazorAssemblyInfo.cache
+C:\Users\s28-vp\source\repos\FileServerApi\FileServerApi\obj\Debug\netcoreapp2.2\FileServerApi.RazorAssemblyInfo.cs
+C:\Users\s28-vp\source\repos\FileServerApi\FileServerApi\obj\Debug\netcoreapp2.2\FileServerApi.AssemblyInfoInputs.cache
+C:\Users\s28-vp\source\repos\FileServerApi\FileServerApi\obj\Debug\netcoreapp2.2\FileServerApi.AssemblyInfo.cs
+C:\Users\s28-vp\source\repos\FileServerApi\FileServerApi\obj\Debug\netcoreapp2.2\FileServerApi.RazorTargetAssemblyInfo.cache
+C:\Users\s28-vp\source\repos\FileServerApi\FileServerApi\bin\Debug\netcoreapp2.2\FileServerApi.pdb
+C:\Users\s28-vp\source\repos\FileServerApi\FileServerApi\obj\Debug\netcoreapp2.2\FileServerApi.dll
+C:\Users\s28-vp\source\repos\FileServerApi\FileServerApi\obj\Debug\netcoreapp2.2\FileServerApi.pdb
